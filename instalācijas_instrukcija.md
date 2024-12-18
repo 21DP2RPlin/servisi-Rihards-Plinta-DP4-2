@@ -1,3 +1,4 @@
+Rihards Plinta DP4-2
 # ExpressVPN instalacijas instrukcija
 ### 1. Atveriet ExpressVPN oficialo majaslapu un nospiediet "GET ExpressVPN"
 ![image](https://github.com/user-attachments/assets/0390fa7f-ba7c-4307-b9b9-78abed0d4b7f)
