@@ -4,7 +4,7 @@ Rihards Plinta DP4-2
 ![image](https://github.com/user-attachments/assets/0390fa7f-ba7c-4307-b9b9-78abed0d4b7f)
 ### 2. Sī ir maksas programmatūra, tāpēc nākamais solis ir izvēlēties sev piemērotaku plānu.
 ![image](https://github.com/user-attachments/assets/09414006-abc8-4e9d-810b-c894bd547043)
-### 3. Tālāk ievadiet savu epastu un izvēlēties maksāšanas veidu.
+### 3. Tālāk ievadiet savu e-pastu un izvēlēties maksāšanas veidu.
 ![image](https://github.com/user-attachments/assets/18321c1a-2b85-47c7-bf8a-542f5b613953)
 ### 4. Pēc apmaksas jūs tiksiet pāradresēti atpakaļ uz ExpressVPN mājaslapu, kur ieraudzīsiet maksājuma apstiprināšanu un aktivācijas kodu, svarīgi šo kodu saglabāt, jo velāk tas būs nepieciešams.
 ![image](https://github.com/user-attachments/assets/72da31be-a780-4dc0-9736-0de265f48b3b)
