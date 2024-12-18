@@ -1,5 +1,5 @@
 Rihards Plinta DP4-2
-# ExpressVPN instalacijas instrukcija
+# ExpressVPN instalācijas instrukcija
 ### 1. Atveriet ExpressVPN oficialo majaslapu un nospiediet "GET ExpressVPN".
 ![image](https://github.com/user-attachments/assets/0390fa7f-ba7c-4307-b9b9-78abed0d4b7f)
 ### 2. Sī ir maksas programmatūra, tāpēc nakamais solis ir izveleties sev piemērotaku plānu.
